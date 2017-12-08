@@ -1,0 +1,2 @@
+# gomis
+usaha
